@@ -1,0 +1,12 @@
+C:\Users\pete2\Desktop\Lab_08\Lab_08\bin\Debug\Employee.exe.config
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Employee.exe
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Employee.pdb
+C:\Users\pete2\Desktop\Lab_08\Lab_08\bin\Debug\Employee.exe
+C:\Users\pete2\Desktop\Lab_08\Lab_08\bin\Debug\Employee.pdb
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Lab_08.csprojResolveAssemblyReference.cache
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Employee.FrmWindow.resources
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\pete2\Desktop\Lab_08\Lab_08\obj\Debug\Lab_08.csproj.GenerateResource.Cache
+C:\Users\pete2\Desktop\Lab_12\Lab_08\bin\Debug\Employee.exe.config
+C:\Users\pete2\Desktop\Lab_12\Lab_08\obj\Debug\Employee.exe
+C:\Users\pete2\Desktop\Lab_12\Lab_08\obj\Debug\Employee.pdb

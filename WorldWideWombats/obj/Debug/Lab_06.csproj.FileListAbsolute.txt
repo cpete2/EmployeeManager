@@ -1,0 +1,12 @@
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\bin\Debug\Employee.exe.config
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Employee.exe
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Employee.pdb
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\bin\Debug\Employee.exe
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\bin\Debug\Employee.pdb
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Lab_06.csprojResolveAssemblyReference.cache
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Employee.MnWindow.resources
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\coryp_000\Desktop\Lab_06\Lab_06\obj\Debug\Lab_06.csproj.GenerateResource.Cache
+C:\Users\pete2\Desktop\Lab_06\Lab_06\bin\Debug\Employee.exe.config
+C:\Users\pete2\Desktop\Lab_06\Lab_06\obj\Debug\Employee.exe
+C:\Users\pete2\Desktop\Lab_06\Lab_06\obj\Debug\Employee.pdb

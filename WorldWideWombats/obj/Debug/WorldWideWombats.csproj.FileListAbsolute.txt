@@ -1,0 +1,6 @@
+C:\Users\pete2\Desktop\Lab_12\WorldWideWombats\bin\Debug\Employee.exe.config
+C:\Users\pete2\Desktop\Lab_12\WorldWideWombats\obj\Debug\Employee.exe
+C:\Users\pete2\Desktop\Lab_12\WorldWideWombats\obj\Debug\Employee.pdb
+C:\Users\pete2\Desktop\WorldWideWombats\WorldWideWombats\bin\Debug\Employee.exe.config
+C:\Users\pete2\Desktop\WorldWideWombats\WorldWideWombats\obj\Debug\Employee.exe
+C:\Users\pete2\Desktop\WorldWideWombats\WorldWideWombats\obj\Debug\Employee.pdb
