@@ -7,7 +7,7 @@
 // I declare that the following code was written by me or provided 
 // by the instructor for this project. I understand that copying source
 // code from any other source constitutes cheating, and that I will receive
-// a zero on this project if I am found in violation of this policy.
+// a zero on this project if I am found in violation of this policy. GIT TEST
 // ---------------------------------------------------------------------------
 using System;
 using System.Collections;
